@@ -1,16 +1,15 @@
-# PDF_SAJATKESZLET_AUTOMATA
-# PDF Automata (EK / Sajátkészlet)
+## Python környezet
 
-## Használat
-1. Töltsd le ZIP-ben
-2. Csomagold ki
-3. Dupla katt: indit.bat
-4. PDF-eket másold az Input mappába
-5. Excel az Output mappában kész
+A program futtatásához hordozható (portable) Python szükséges.
 
-## Követelmények
-- Windows
-- Nincs szükség Python telepítésre
+Hivatalos letöltési oldal:
+https://www.python.org/downloads/windows/
 
-## Megjegyzés
-A lookup.xlsx céges adatokat tartalmaz, nem része a repository-nak.
+Itt a **Python Embedded Distribution (Windows embeddable package 64-bit)** verziót kell letölteni.
+
+A letöltött csomagot ki kell csomagolni a program mappájába az alábbi módon:
+
+PDF_SAJATKESZLET_AUTOMATA/
+└─ Python/
+   └─ python.exe
+Megjegyzés: a program Windows 64 bites környezetre készült.
